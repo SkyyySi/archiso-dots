@@ -1,0 +1,27 @@
+All wallpapers here were taken from https://unsplash.com
+A huge thank you to the following creators:
+
+asoggetti:
+ - default_mountains.jpg -> https://unsplash.com/photos/zxcBR3zNc7I
+ - swimming_mountains.jpg -> https://unsplash.com/photos/azKvSobkYog
+
+Daniel Leone:
+ - poon_hill_night.jpg -> https://unsplash.com/photos/g30P1zcOzXo
+
+Edan Cohen:
+ - col_de_Jaman.jpg -> https://unsplash.com/photos/AM8QCgDcQrQ
+ - philadelphia.jpg -> https://unsplash.com/photos/gjmbiBK9kI4
+
+Lubo Minar:
+ - san_francisco_street.jpg -> https://unsplash.com/photos/kYDRVZtESXA
+
+Jake Hills:
+ - lake_mountain_sky.jpg -> https://unsplash.com/photos/mI02K_LxlfU
+
+Javier García:
+ - madrid_tunnel.jpg -> https://unsplash.com/photos/jJbQBP_yh68
+
+Wes Hicks:
+ - charlotte_day.jpg -> https://unsplash.com/photos/1xQa2_rLC68
+ - charlotte_dusk.jpg -> https://unsplash.com/photos/MM5Ebzrq9fs
+ - charlotte_night.jpg -> https://unsplash.com/photos/Mni8DurIyBA
